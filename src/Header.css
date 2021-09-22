@@ -1,0 +1,16 @@
+.imageover{
+    
+    position: absolute;
+  left: 50%;
+  top: 20%;
+  text-align: center;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  color: white;
+
+}
+
+.feat{
+    text-align: center;
+}
